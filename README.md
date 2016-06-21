@@ -1,5 +1,5 @@
 # direction-detection
-Detect whether or not a "stream's" value is increasing or decreasing.
+Detect whether or not a 'stream\'s' value is increasing or decreasing.
 
 ## Usage
 
