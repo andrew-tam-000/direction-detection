@@ -3,10 +3,11 @@ Detect whether or not a 'stream\'s' value is increasing or decreasing.
 
 ## Usage
 
-var directionDetection = require('direction-detection');
 
 
 ```
+var directionDetection = require('direction-detection');
+
 // Initialize your object
 var scrollDirection = directionDetection({
     onDirectionChange: function(value, direction) {
